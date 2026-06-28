@@ -16,3 +16,15 @@ Archive of accepted coding challenge solutions, synced by [AlgorithmHub](https:/
 - [LeetCode](./Leetcode)
 - [프로그래머스](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)
 - [HackerRank](./HackerRank)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+<!---LeetCode Topics End-->
