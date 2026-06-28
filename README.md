@@ -23,8 +23,10 @@ Archive of accepted coding challenge solutions, synced by [AlgorithmHub](https:/
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0027-remove-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
