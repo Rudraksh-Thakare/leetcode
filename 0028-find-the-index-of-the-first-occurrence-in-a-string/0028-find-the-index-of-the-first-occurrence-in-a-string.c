@@ -1,9 +1,11 @@
 int strStr(char* haystack, char* needle) {
 
-    for(int i=0;i<strlen(haystack);i++)
+    int h=strlen(haystack);
+    int n=strlen(needle);
+    for(int i=0;i<=h-n;i++)
     {
         int j=0;
-        while(j<strlen(needle))
+        while(j<n)
         {
             if(haystack[i+j]==needle[j])
             {
@@ -13,7 +15,7 @@ int strStr(char* haystack, char* needle) {
             {
                 break;
             }
-            if(j==strlen(needle))
+            if(j==n)
             
                 return i;
         }
