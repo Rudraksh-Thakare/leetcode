@@ -27,4 +27,8 @@ Archive of accepted coding challenge solutions, synced by [AlgorithmHub](https:/
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0035-search-insert-position) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
