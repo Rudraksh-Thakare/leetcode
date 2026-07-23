@@ -36,4 +36,16 @@ Archive of accepted coding challenge solutions, synced by [AlgorithmHub](https:/
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
