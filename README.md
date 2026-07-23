@@ -23,8 +23,17 @@ Archive of accepted coding challenge solutions, synced by [AlgorithmHub](https:/
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
