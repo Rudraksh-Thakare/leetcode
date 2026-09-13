@@ -27,6 +27,7 @@ Archive of accepted coding challenge solutions, synced by [AlgorithmHub](https:/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0002-add-two-numbers) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rudraksh-Thakare/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -35,10 +36,12 @@ Archive of accepted coding challenge solutions, synced by [AlgorithmHub](https:/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0169-majority-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rudraksh-Thakare/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0169-majority-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rudraksh-Thakare/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,4 +58,8 @@ Archive of accepted coding challenge solutions, synced by [AlgorithmHub](https:/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Rudraksh-Thakare/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
