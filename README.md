@@ -31,4 +31,28 @@ Archive of accepted coding challenge solutions, synced by [AlgorithmHub](https:/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0169-majority-element) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rudraksh-Thakare/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
